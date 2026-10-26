@@ -8917,9 +8917,6 @@ run_date,forecast_date,lead_days,variable,value,source
 2026-10-26,2026-10-31,5,minTemperature,-2.7777777777777777,api
 2026-10-26,2026-11-01,6,minTemperature,-2.2222222222222223,api
 2026-10-26,2026-11-02,7,minTemperature,-1.6666666666666667,api
-2026-10-26,2026-10-26,0,skyCover,87,api
-2026-10-26,2026-10-26,0,skyCover,79,api
-2026-10-26,2026-10-26,0,skyCover,91,api
 2026-10-26,2026-10-26,0,skyCover,86,api
 2026-10-26,2026-10-26,0,skyCover,71,api
 2026-10-26,2026-10-26,0,skyCover,77,api
