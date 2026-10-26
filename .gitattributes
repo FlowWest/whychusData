@@ -1,2 +1,2 @@
-* text=auto
-*.csv text eol=lf
+# LF everywhere, including Windows checkouts
+* text=auto eol=lf
