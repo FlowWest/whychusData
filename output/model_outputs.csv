@@ -41,3 +41,10 @@ run_date,forecast_date,lead_days,dadm_m0,pred_change_C,pred_7dadm_C,note,cp_flow
 2026-10-31,2026-11-05,5,7.28,-1.65,5.63,NA,camp_polk,camp_polk,api
 2026-10-31,2026-11-06,6,7.28,-1.91,5.37,NA,camp_polk,camp_polk,api
 2026-10-31,2026-11-07,7,7.28,-2.46,4.82,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-02,1,7.27,-0.2,7.07,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-03,2,7.27,-0.46,6.81,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-04,3,7.27,-0.73,6.54,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-05,4,7.27,-1.04,6.23,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-06,5,7.27,-1.45,5.83,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-07,6,7.27,-1.82,5.46,NA,camp_polk,camp_polk,api
+2026-11-01,2026-11-08,7,7.27,-2.39,4.89,NA,camp_polk,camp_polk,api
